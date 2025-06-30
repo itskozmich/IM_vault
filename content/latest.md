@@ -1,5 +1,0 @@
-- [[NPC/Tyras Hegemon/Vera Valen]] – 2025-06-30
-- [[NPC/Tyras Hegemon/Tessa Valen]] – 2025-06-30
-- [[NPC/Tyras Hegemon/Pollyn Valen]] – 2025-06-30
-- [[NPC/Tyras Hegemon/Leman Valen]] – 2025-06-30
-- [[NPC/Tyras Hegemon/Daren Valen]] – 2025-06-30
