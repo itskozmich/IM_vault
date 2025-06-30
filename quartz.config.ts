@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     },
     locale: "cs-CZ",
     baseUrl: "/IM_vault", // nastav podle svého repozitáře
-    ignorePatterns: ["private", "templates", ".obsidian", "vault"],
+    ignorePatterns: ["private", "templates", ".obsidian", "vault","latest.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
