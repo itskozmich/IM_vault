@@ -1,23 +1,18 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Imperium Maledictum Vault",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "plausible", // můžeš dát "" pokud žádnou službu nepoužíváš
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "cs-CZ",
+    baseUrl: "itskozmich.github.io/obsidian-vault", // nastav podle svého repozitáře
+    ignorePatterns: ["private", "templates", ".obsidian", "vault"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -88,8 +83,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(), // Můžeš zakomentovat kvůli rychlosti
     ],
   },
 }
