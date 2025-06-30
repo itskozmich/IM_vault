@@ -11,7 +11,7 @@ const config: QuartzConfig = {
       provider: "plausible", // můžeš dát "" pokud žádnou službu nepoužíváš
     },
     locale: "cs-CZ",
-    baseUrl: "itskozmich.github.io/obsidian-vault", // nastav podle svého repozitáře
+    baseUrl: "/IM_vault", // nastav podle svého repozitáře
     ignorePatterns: ["private", "templates", ".obsidian", "vault"],
     defaultDateType: "modified",
     theme: {
