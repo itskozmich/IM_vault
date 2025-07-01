@@ -1,3 +1,5 @@
+![[leman.png|360]]
+
 **Lokace:** [[Tyras Hegemon]]
 
 **Vztahy**:  
@@ -6,14 +8,6 @@
 - [[Daren Valen]] - syn
 - [[Tessa Valen]] - dcera
 - [[Vera Valen]] - dcera
-
-## Popis
-
-
-## Motivace
-
-
-## Vývoj
 
 ## Tagy
 #npc

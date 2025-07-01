@@ -14,9 +14,9 @@ title: Vault kampaně v Imperium Maledictum
 <!--LATEST-->
 ## 🧭 Poslední stopy ve vaultu
 
-- [[NPC/Lady-Captain Lyra Vhast]] – `2025-06-30`
-- [[Factions/Adeptus Administratum]] – `2025-06-30`
-- [[Factions/Rod Vhast]] – `2025-06-30`
-- [[Factions/Rogue Traders]] – `2025-06-30`
-- [[Factions/The Imperial Navy]] – `2025-06-30`
+- [[NPC/Tyras Hegemon/Daren Valen]] – `2025-07-01`
+- [[NPC/Tyras Hegemon/Pollyn Valen]] – `2025-07-01`
+- [[NPC/Tyras Hegemon/Tessa Valen]] – `2025-07-01`
+- [[NPC/Tyras Hegemon/Vera Valen]] – `2025-07-01`
+- [[PC/Caradoc Valen]] – `2025-07-01`
 <!--ENDLATEST-->

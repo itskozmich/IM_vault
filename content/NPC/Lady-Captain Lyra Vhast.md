@@ -1,4 +1,4 @@
-![[lyra.png]]
+![[lyra.png|360]]
 
 **Typ**: patron NPC
 

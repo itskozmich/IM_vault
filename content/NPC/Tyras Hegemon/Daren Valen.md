@@ -1,3 +1,4 @@
+![[daren.png|360]]
 
 **Lokace:** [[Tyras Hegemon]]
 
@@ -8,13 +9,6 @@
 - [[Tessa Valen]] - sestra
 - [[Vera Valen]] - sestra
 
-## Popis
-
-
-## Motivace
-
-
-## Vývoj
 
 ## Tagy
 #npc

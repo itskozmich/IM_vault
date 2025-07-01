@@ -1,5 +1,4 @@
-![[Assets/caradoc_portrait.png|360]]
-
+![[Assets/caradoc.png|360]]
 
 **Hráč**:  Michal
 
@@ -13,7 +12,7 @@
 
 ## Vztahy
 - [[Lady-Captain Lyra Vhast]] – patron
-- [[lt. Alric Hevren]] - kontakt v [[Imperial Fleet]]
+- [[lt. Alric Hevren]] - kontakt v [[The Imperial Navy]]
 - [[NPC/Tyras Hegemon/Leman Valen|Leman Valen]] - otec
 - [[NPC/Tyras Hegemon/Pollyn Valen|Pollyn Valen]] -matka
 - [[NPC/Tyras Hegemon/Daren Valen|Daren Valen]] - bratr

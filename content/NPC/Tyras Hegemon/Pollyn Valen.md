@@ -1,3 +1,5 @@
+![[pollyn.png|360]]
+
 **Lokace:** [[Tyras Hegemon]]
 
 **Vztahy**:  
@@ -7,13 +9,6 @@
 - [[Tessa Valen]] - dcera
 - [[Vera Valen]] - dcera
 
-## Popis
-
-
-## Motivace
-
-
-## Vývoj
 
 ## Tagy
 #npc
