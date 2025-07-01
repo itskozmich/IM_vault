@@ -45,4 +45,4 @@ Pak přišla [[Lady-Captain Lyra Vhast]]. Neptala se na jeho minulost. Řekla mu
 
 ---
 ## Tagy
-#pc #valen_dynasty #imperial_navy
+#pc #valen_dynasty #imperial_navy #crew

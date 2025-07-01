@@ -15,6 +15,8 @@
 ## Vztahy 
 
 - [[Caradoc Valen]] - člen týmu
+- [[Mortis]] - člen týmu
+- [[Echo]] - člen týmu
 
 ---
 ## Historie
@@ -65,4 +67,4 @@ Když si uvědomila, že legitimní cesty se uzavírají, obrátila se Lyra Vhas
 
 ---
 ## Tagy 
-#npc #patron #vhast_dynasty
+#npc #patron #vhast_dynasty #crew

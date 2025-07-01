@@ -1,4 +1,4 @@
-
+![[mortis.png|360]]
 
 ## Imperiální databáze
 **Player**: Luděk
@@ -12,19 +12,17 @@
 **Status**: Alive
 
 ---
-
 ## Vztahy
-
+- [[Lady-Captain Lyra Vhast]] - patron
+- [[Zariel]] - sestra
+- [[Crusher]] - pašerák
 
 
 ---
-
 ## Vývoj
 
 
-
 ---
-
 ## Historie
 
 Mortis se narodil v těžkých a znečištěných stínech nekonečných manufaktur na měsíci Stygies VIII. Již od útlého věku se učil, že maso je slabé a bůh-Stroj neodpouští. Rodiče mu zemřeli při jednom z četných kolapsů těžebních šachet. Zůstal jen on… a jeho mladší sestra Zariel.
@@ -36,14 +34,13 @@ Zarielina síla se opět vymkla kontrole. Výboj energie způsobil explozi v tov
 Mortis byl při útěku dopaden a uvězněn. Několik týdnů čekal na výslech inkvizicí. Místo toho se objevila Lady-Captain Lyra Vhast — ambiciózní Rogue Trader. Nabídla mu, že ho dostane z cely výměnou za službu na její lodi. Mortis souhlasil. Neměl už co ztratit. Navíc díky jejím zdrojům může zjistit co se po útěku stalo s jeho sestrou a zajistit ji bezpečný úkryt.
 
 ---
-
 ## Sessions
 [[Session 2025-07-01]]
 
 ---
-
+---
 ## Tagy
-#pc 
+#pc #crew #adeptus_mechanicus
 
 ---
 

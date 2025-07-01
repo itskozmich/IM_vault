@@ -15,6 +15,8 @@ title: Vault kampaně v Imperium Maledictum
 ## 🧭 Poslední stopy ve vaultu
 
 - [[PC/Mortis]] – `2025-07-01`
+- [[NPC/Crusher]] – `2025-07-01`
+- [[NPC/Zariel]] – `2025-07-01`
 - [[Locations/Stygies VIII]] – `2025-07-01`
 - [[Factions/Adeptus Mechanicus]] – `2025-07-01`
 - [[NPC/Tyras Hegemon/Daren Valen]] – `2025-07-01`
@@ -22,6 +24,4 @@ title: Vault kampaně v Imperium Maledictum
 - [[NPC/Tyras Hegemon/Pollyn Valen]] – `2025-07-01`
 - [[NPC/Tyras Hegemon/Tessa Valen]] – `2025-07-01`
 - [[NPC/Tyras Hegemon/Vera Valen]] – `2025-07-01`
-- [[NPC/Lady-Captain Lyra Vhast]] – `2025-07-01`
-- [[NPC/lt. Alric Hevren]] – `2025-07-01`
 <!--ENDLATEST-->
