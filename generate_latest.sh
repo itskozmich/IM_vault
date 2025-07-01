@@ -2,7 +2,7 @@
 
 CONTENT_DIR="content"
 INDEX_FILE="$CONTENT_DIR/index.md"
-COUNT=5
+COUNT=10
 
 # Vytvoř blok s nadpisem a nejnovějšími poznámkami
 latest_content=$( \
