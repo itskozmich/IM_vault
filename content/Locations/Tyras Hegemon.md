@@ -15,4 +15,4 @@ Tyras Hegemon není svět, který se bouří. Je to svět, který přetrvá, pro
 
 [[NPC/Tyras Hegemon/Leman Valen|Leman Valen]], [[Pollyn Valen]], [[Daren Valen]], [[Tessa Valen]], [[Vera Valen]] 
 ## Tagy
-#location
+#location #planet 

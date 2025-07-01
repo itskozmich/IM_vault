@@ -1,10 +1,18 @@
 ![[alric.png|360]]
 
+## Imperiální databáze
+**Type:** NPC
+
+**Role:** Imperial Navy Officer
+
 **Faction:** [[The Imperial Navy]]
 
-**Vztahy:**
+**Status:** Alive
+
+--- 
+## Vztahy 
 - [[Caradoc Valen]] - bývalý společník v [[The Imperial Navy]]
 
-
-# Tagy
-#npc 
+---
+## Tagy
+#npc #imperial_navy

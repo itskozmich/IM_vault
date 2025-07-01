@@ -1,27 +1,40 @@
 
 
-**Hráč**:  
-**Povolání / role**:  
-**Zázemí**:  
-**Frakce**: [[ ]]  
-**Poprvé se objevil**: [[Session YYYY-MM-DD]]
 
-## Staty / mechaniky
-- Síla:  
-- Obratnost:  
-- Odolnost:  
-- Vliv:  
+## Imperiální databáze
+**Player**: 
 
-## Motivace / trauma
-- Motivace:  
-- Slabé místo:  
+**Role**: 
+
+**Origin**: 
+
+**Faction**: 
+
+**Status**: 
+
+
+---
 
 ## Vztahy
-- [[ ]] – (vztah, dynamika)
+
+
+
+---
 
 ## Vývoj
-- Sezení 1: …  
-- Sezení 2: …
+
+
+
+---
+
+## Historie
+
+
+
+---
+
+## Sessions
+
+---
 
 ## Tagy
-#pc

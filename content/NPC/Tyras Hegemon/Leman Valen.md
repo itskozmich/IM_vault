@@ -1,13 +1,22 @@
 ![[leman.png|360]]
 
-**Lokace:** [[Tyras Hegemon]]
+## Imperiální databáze
+**Type:**  NPC
 
-**Vztahy**:  
+**Role:** Noble, Head of Dynasty
+
+**Location:** [[Tyras Hegemon]]
+
+**Status:** Alive
+
+---
+## Vztahy 
 - [[Caradoc Valen]] - syn
 - [[Pollyn Valen]] - manželka
-- [[Daren Valen]] - syn
+- [[Daren Valen]] - syn, dědic
 - [[Tessa Valen]] - dcera
 - [[Vera Valen]] - dcera
 
+---
 ## Tagy
-#npc
+#npc #valen_dynasty

@@ -4,4 +4,4 @@ Rod Vhast, kdysi vážená dynastie [[Rogue Traders|Rogue Traderů]] známá sv�
 - [[Lady-Captain Lyra Vhast]]
 
 ## Tagy
-#faction #subfaction
+#faction #subfaction #vhast_dynasty #rogue_trader_dynasty 

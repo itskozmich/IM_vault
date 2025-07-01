@@ -1,15 +1,17 @@
 ![[Assets/caradoc.png|360]]
 
-**Hráč**:  Michal
+## Imperiální databáze
+**Player**: Michal
 
-**Role**:  Interlocuter
+**Role**: Interlocuter
 
-**Origin**:  Feudal World ([[Tyras Hegemon]])
+**Origin**: Feudal World ([[Tyras Hegemon]])
 
 **Faction**: [[The Imperial Navy]] 
 
 **Status**: Alive
 
+---
 ## Vztahy
 - [[Lady-Captain Lyra Vhast]] – patron
 - [[lt. Alric Hevren]] - kontakt v [[The Imperial Navy]]
@@ -19,9 +21,10 @@
 - [[NPC/Tyras Hegemon/Tessa Valen|Tessa Valen]] - sestra
 - [[NPC/Tyras Hegemon/Vera Valen|Vera Valen]] - sestra
 
+---
 ## Vývoj
 
-
+---
 ## Historie
 
 Caradoc je druhý syn šlechtického rodu Valen z feudálního světa [[Tyras Hegemon]]. Od začátku bylo jasné, že panství jednou přejde na jeho staršího bratra [[NPC/Tyras Hegemon/Daren Valen|Darena]], a Caradoc bude ten druhý – záloha. Učil se vést, plánovat, rozhodovat, ale bez iluzí, že by někdy rozhodoval sám za sebe.
@@ -36,7 +39,10 @@ Postupně ho to začalo dusit. Všechno, co dávalo smysl – rozhodování, zod
 
 Pak přišla [[Lady-Captain Lyra Vhast]]. Neptala se na jeho minulost. Řekla mu, co potřebuje. A on věděl, že přesně tohle hledal – možnost něco dělat, ne jen sloužit.
 
+---
 ## Sessions
  [[Session 2025-07-01]]
+
+---
 ## Tagy
-#pc
+#pc #valen_dynasty #imperial_navy

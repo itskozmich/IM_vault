@@ -1,18 +1,22 @@
 ![[lyra.png|360]]
 
-**Typ**: patron NPC
+## Imperiální databáze
+**Type**: patron NPC
 
 **Role:** Rogue Trader
 
-**Frakce**: [[Rod Vhast]]
-
-**Poprvé se objevila**: [[Session 2025-07-01]]
+**Faction**: [[Rod Vhast]]
 
 **Status:** Alive
 
-**Vztahy**:  
+**First occurence:** [[Session 2025-07-01]]
+
+---
+## Vztahy 
+
 - [[Caradoc Valen]] - člen týmu
 
+---
 ## Historie
 Lady-Captain Lyra Vhast zdědila Obchodní glejt, který měl sotva nějakou cenu – zatížený přízraky dávné slávy a drtivou váhou kdysi hrdého jména na pokraji zániku.
 
@@ -20,11 +24,14 @@ Její chování je trvale vážné – stín odrážející dědičné břemeno 
 
 Když si uvědomila, že legitimní cesty se uzavírají, obrátila se Lyra Vhast k šedým zónám Impéria. Spatřila příležitost v mrtvých úhlech imperiálního práva a zoufalých potřebách, které oficiální struktury nedokázaly naplnit. Její ambice není jen otázkou bohatství – jde o obnovu a povznesení jména Vhast, o důkaz, že její rod zůstává silou, s níž je třeba počítat. Rodem, který dovede dotáhnout věci do konce – bez ohledu na překážky či zákonnost.
 
+---
 ## Vývoj
 
+---
 ## Sessions
 [[Session 2025-07-01]] 
 
+---
 ## Ke hře
 **Patron type:** Rogue Trader
 
@@ -56,7 +63,6 @@ Když si uvědomila, že legitimní cesty se uzavírají, obrátila se Lyra Vhas
 - Strange Tastes
 - Enemy ([[Adeptus Administratum]])
 
-
-
+---
 ## Tagy 
-#npc #patron
+#npc #patron #vhast_dynasty

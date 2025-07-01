@@ -7,4 +7,4 @@ Imperiální námořnictvo je zodpovědné za Císařovu ohromnou flotilu vesmí
 
 
 ## Tagy
-#faction
+#faction #imperial_navy

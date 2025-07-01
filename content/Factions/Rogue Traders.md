@@ -11,5 +11,5 @@ Díky tomu jsou často vnímáni jako nebezpečný, nespoutaný prvek v jinak p�
 - [[Lady-Captain Lyra Vhast]] 
 
 ## Tagy
-#faction
+#faction #rogue_trader_dynasty
 
