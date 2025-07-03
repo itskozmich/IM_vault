@@ -4,12 +4,15 @@ Dynastie Rogue Traderů jsou rodiny mezihvězdných šlechtických obchodníků,
 
 Díky tomu jsou často vnímáni jako nebezpečný, nespoutaný prvek v jinak přísně organizovaném systému Impéria. Není neobvyklé, že se některé dynastie dostanou do úpadku – pokladny vyschnou a zbyde jim jen jedna rozpadající se loď. Rogue Tradeři dobře vědí, že každý den jejich existence je hazard – sázka mezi nebezpečím a ziskem.
 
+---
 ## Sub-frakce
 - [[Rod Vhast]] 
 
+---
 ## Postavy
 - [[Lady-Captain Lyra Vhast]] 
 
+---
 ## Tagy
 #faction #rogue_trader_dynasty
 

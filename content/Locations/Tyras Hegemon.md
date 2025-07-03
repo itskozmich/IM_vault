@@ -1,4 +1,11 @@
 ![[tyras hegemon.png]]
+
+## Imperiální databáze
+**Type:** Feudal World
+
+---
+## Popis
+
 Tyras neprahne po růstu. Tyras trvá.
 
 Planeta z prachu a železa, kde slunce jen zřídka pronikne skrze vrstvy kouře a starých modliteb. Krajina je strohá, vítr ostrý, a zvyky tvrdší než kámen, ze kterého jsou tesány sídla urozených. Feudální struktura tu není přežitek, ale samotná podstata existence – kdo nezapadá, je vyloučen, umlčen, nebo rozšlápnut.
@@ -11,8 +18,11 @@ Na Tyrasu je věrnost Císaři součástí tradice, nikoliv akt víry. Neuctíva
 
 Tyras Hegemon není svět, který se bouří. Je to svět, který přetrvá, protože jinou možnost nepřipouští.
 
+---
 ## NPCs
 
 [[NPC/Tyras Hegemon/Leman Valen|Leman Valen]], [[Pollyn Valen]], [[Daren Valen]], [[Tessa Valen]], [[Vera Valen]] 
+
+---
 ## Tagy
 #location #planet 

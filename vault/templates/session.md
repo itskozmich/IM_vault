@@ -1,18 +1,19 @@
+## Zapojené postavy
+**PC:**
+
+**NPC:** 
 
 
-**Datum**: {{date}}  
-**Přítomní**: [[ ]] [[ ]] [[ ]]
+---
+## Klíčové momenty
 
-## Shrnutí
-- Co se stalo?
-- Nové poznatky?
-- Nové postavy?
 
-## Místa
-- [[ ]]
+---
+## Kronika
 
-## Frakce / Dění
-- [[ ]]
 
-## Otázky do příště
-- ?
+---
+## Tagy
+#session  
+
+---
