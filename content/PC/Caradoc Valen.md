@@ -24,6 +24,8 @@
 - [[NPC/Tyras Hegemon/Vera Valen|Vera Valen]] - sestra
 
 ---
+
+---
 ## Vývoj
 
 **Převoz ze Stygies VIII**

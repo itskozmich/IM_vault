@@ -14,14 +14,14 @@ title: Vault kampaně v Imperium Maledictum
 <!--LATEST-->
 ## 🧭 Poslední stopy ve vaultu
 
-- [[PC/Caradoc Valen]] – `2025-07-03`
+- [[PC/Echo]] – `2025-07-29`
+- [[Factions/Rod Winterscale]] – `2025-07-29`
+- [[Factions/Rogue Traders]] – `2025-07-29`
+- [[NPC/Calligos Winterscale]] – `2025-07-29`
+- [[NPC/Elara]] – `2025-07-29`
+- [[NPC/Eilick]] – `2025-07-29`
+- [[NPC/Hademar Esser]] – `2025-07-29`
+- [[Factions/Astra Militarum]] – `2025-07-29`
+- [[Locations/Voll]] – `2025-07-29`
 - [[Sessions/Session 2025-07-01]] – `2025-07-03`
-- [[Locations/The Vigilant Seeker]] – `2025-07-03`
-- [[NPC/Lady-Captain Lyra Vhast]] – `2025-07-03`
-- [[Locations/Stygies VIII]] – `2025-07-03`
-- [[Factions/The Imperial Navy]] – `2025-07-03`
-- [[Factions/Rogue Traders]] – `2025-07-03`
-- [[Factions/Rod Vhast]] – `2025-07-03`
-- [[Factions/Adeptus Administratum]] – `2025-07-03`
-- [[Locations/Tyras Hegemon]] – `2025-07-03`
 <!--ENDLATEST-->

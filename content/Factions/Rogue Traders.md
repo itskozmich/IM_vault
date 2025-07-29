@@ -7,11 +7,12 @@ Díky tomu jsou často vnímáni jako nebezpečný, nespoutaný prvek v jinak p�
 ---
 ## Sub-frakce
 - [[Rod Vhast]] 
+- [[Rod Winterscale]]
 
 ---
 ## Postavy
 - [[Lady-Captain Lyra Vhast]] 
-
+- [[Calligos Winterscale]]
 ---
 ## Tagy
 #faction #rogue_trader_dynasty
