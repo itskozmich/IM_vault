@@ -9,7 +9,7 @@
 
 --- 
 ## Vztahy 
-- [[Mortis]] - mladší sestra. 
+- [[Mortis]] - starší bratr
 
 ## Popis
 

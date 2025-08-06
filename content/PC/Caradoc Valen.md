@@ -1,4 +1,4 @@
-![[Assets/caradoc.png|360]]
+![[caradoc.png|360]]
 
 ## Imperiální databáze
 **Player**: Michal
@@ -38,6 +38,25 @@ Zariel své schopnosti plně neovládala. Došlo k nehodě a celá mise se nezda
 
 **Mise na** ***Lucky Star***
 
+První mise s novým týmem. Specialistu na infiltraci [[Echo|Echa]] doplnil již zachráněný techpriest Mortis jako nejnovější člen. Úkol byl jasný – vniknout na ztroskotanou loď *Lucky Star* a získat odtud smlouvy důležité pro [[Rod Vhast]] a náklad s významem pro kapitánku.
+
+Při průletu pásem asteroidů Caradoc zužitkoval své zkušenosti z [[The Imperial Navy|Imperial Navy]] a spolu s Mortisem, který se staral o senzoriku, se jim podařilo přistát poblíž vraku.
+
+Samotná infiltrace na loď proběhla bez větších problémů. Během průzkumu tým zneškodnil skupinu scavengerů a úspěšně nalezl požadované smlouvy. ([[Session 2025-07-01|session]])
+
+Druhá část požadavků – xenotechnologie pro Lady Lyru – se však nacházela v jiné části lodi, kde se podle všeho ukrýval neznámý vetřelec. Při souboji s tvorem se opět potvrdilo Caradocovo přesvědčení, že meč je mocnější než palné zbraně – právě díky jeho ráně tvor nakonec padl, byť za cenu zlomené nohy. ([[Session 2025-07-29|session]])
+
+Po návratu na voidship *[[The Vigilant Seeker]]* čekalo tým nepříjemné překvapení: úředníci z [[Adeptus Administratum]] oznámili inspekci. Na palubě vládl chaos a kapitánka Vhast naprosto ztrácela kontrolu. Velení musel převzít tým. A i když se snažili sebevíc, ne vše vycházelo, jak si přáli – například Mortis namísto záměrného zmatení záznamů vnesl do systému dokonalý pořádek.
+
+Po příchodu [[Lop Kerys|Lopa Keryse]] se Echo záměrně skryl a nechal enforcery jednat s důstojníky, kteří nebyli na podobné úkoly připraveni. To mělo své důsledky – hlavní kormidelník málem zkolaboval.
+
+Ačkoliv kontrola dopadla v zásadě dobře, celý průběh citelně nahlodal Caradocovu důvěru jak v tým, tak v kapitánku. 
+
+V Lyře viděl poprvé slabost, kterou nelze přejít.  
+V Echovi poprvé selhání, které nelze omluvit.  
+V Mortisovi kompetenci, která potřebuje dohled. 
+
+Caradocova loajalita nestojí na slepé poslušnosti, ale na důvěře ve schopnosti. A právě tento obraz byl všemi třemi narušen. ([[Session 2025-08-05|session]])
 
 ---
 ## Historie
@@ -58,7 +77,7 @@ Pak přišla [[Lady-Captain Lyra Vhast]]. Neptala se na jeho minulost. Řekla mu
 
 ---
 ## Sessions
- [[Session 2025-07-01]] [[Session 2025-07-29]]
+ [[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]]
 
 ---
 ## Tagy

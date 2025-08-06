@@ -1,21 +1,29 @@
 
+## Imperiální databáze
+**Type**: 
 
-**Typ**: (NPC / Monstrum)  
-**Role / povolání**:  
-**Frakce**: [[ ]]  
-**Poprvé se objevil**: [[Session YYYY-MM-DD]]  
-**Vztahy**:  
-- [[ ]] – (vztah)
+**Role:** 
 
-## Popis
-Krátký popis vzhledu, způsobu mluvy, dojmu.
+**Faction**: 
 
-## Motivace
-Co chce, čeho se bojí, jak reaguje.
+**Status:** 
 
+**First occurence:** 
+
+---
+## Vztahy 
+
+
+---
 ## Vývoj
-- Sezení 1: X
-- Sezení 2: Y
 
-## Tagy
-#npc
+
+---
+## Historie
+
+
+---
+## Sessions
+
+---
+## Tagy 

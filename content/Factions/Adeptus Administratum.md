@@ -5,5 +5,11 @@ Ačkoliv je Astra Militarum bezpochyby největší armádou v Galaxii, mnohé m�
 Zajišťují, že žádná budova nebude postavena, žádná zásilka doručena, ani žádná planetární invaze provedena bez příslušného papírování a požehnání. Civilisté se obecně domnívají, že práce pro Administratum je bezpečná a pohodlná — nemohli by se mýlit víc. Nikdo v Impériu není v bezpečí. Jeden ztracený spis, opožděná daňová hlášení nebo nepodepsaný dokument mohou ovlivnit životy miliard. Moc Administrata zdržet operace jiných organizací může způsobit, že se i ten nejskromnější písař ocitne s terčem na zádech.
 
 ---
+
+## Postavy
+- [[Senior Auditor Phineas Thorne]] - senior auditor
+- [[Lop Kerys]] - arbitrator
+
+---
 ## Tagy
 #faction #adeptus_administratum

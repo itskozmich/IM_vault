@@ -44,12 +44,12 @@ Mortis byl při útěku dopaden a uvězněn. Několik týdnů čekal na výslech
 
 ---
 ## Sessions
-[[Session 2025-07-01]] [[Session 2025-07-29]]
+[[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]]
 
 ---
 ---
 ## Tagy
 #pc #crew #adeptus_mechanicus
 
----
+
 

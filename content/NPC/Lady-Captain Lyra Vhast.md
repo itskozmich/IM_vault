@@ -13,10 +13,12 @@
 
 ---
 ## Vztahy 
-
 - [[Caradoc Valen]] - člen týmu
 - [[Mortis]] - člen týmu
 - [[Echo]] - člen týmu
+
+---
+## Vývoj
 
 ---
 ## Historie
@@ -25,9 +27,6 @@ Lady-Captain Lyra Vhast zdědila Obchodní glejt, který měl sotva nějakou cen
 Její chování je trvale vážné – stín odrážející dědičné břemeno i nemilosrdné kalkulace, nezbytné pro přežití jejího rodu.
 
 Když si uvědomila, že legitimní cesty se uzavírají, obrátila se Lyra Vhast k šedým zónám Impéria. Spatřila příležitost v mrtvých úhlech imperiálního práva a zoufalých potřebách, které oficiální struktury nedokázaly naplnit. Její ambice není jen otázkou bohatství – jde o obnovu a povznesení jména Vhast, o důkaz, že její rod zůstává silou, s níž je třeba počítat. Rodem, který dovede dotáhnout věci do konce – bez ohledu na překážky či zákonnost.
-
----
-## Vývoj
 
 ---
 ## Sessions
@@ -68,6 +67,7 @@ Když si uvědomila, že legitimní cesty se uzavírají, obrátila se Lyra Vhas
 - Strange Tastes
 - Enemy ([[Adeptus Administratum]])
 
+---
 ---
 ## Tagy 
 #npc #patron #vhast_dynasty #crew
