@@ -77,7 +77,7 @@ Pak přišla [[Lady-Captain Lyra Vhast]]. Neptala se na jeho minulost. Řekla mu
 
 ---
 ## Sessions
- [[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]]
+ [[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]]
 
 ---
 ## Tagy
