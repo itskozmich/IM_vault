@@ -29,6 +29,7 @@ Před první misí přistihl [[Caradoc Valen|Caradoc]] Mortise v choulostivé s
 Během první společné mise stál Mortis tiše ve stínu strojovny, skrytý mezi rozvody a výčnělky potrubí, když zaslechl tlumené hlasy – [[Echo]], nenápadný člen týmu, hovořil přes šifrovaný vox s [[Calligos Winterscale|Calligosem Winterscalem]]. Rozhovor byl stručný, ale výmluvný: zmínky o nestabilních dodávkách archeotechnologií a sabotáži konkurenčních tras. Mortis vnímal každé slovo jako hrozbu. To nebyla jen neloajalita – to bylo vědomé podrývání autority Lady Lyry. Pro Mortise, který obětoval vše pro možnost ochránit svou sestru, byla Echova dvojí hra velmi nebezpečná. Nemůže si dovolit, aby jeho tým selhal při plnění úkolů nebo hůře byl shledán jako neloajální vůči Lady-Captain Lyře. Vyvodil si jasný závěr: Echo je buď infiltrace od Winterscaleů, nebo má jiné postranní úmysly. V obou případech je nutné ho mít pod dohledem.
 
 **Mise:** ***Lucky Star***
+
 Mortis se stal posledním členem nového tým, který má pro [[Lady-Captain Lyra Vhast|Lady-Captain Lyru]] plnit zvláštní úkoly. První mise měla jednoduché zadání - vyzvednou ze troskotané lodi **Lucky Star** smlouvy důležité pro rod Vhast a bedny s nákladem důležité přímo pro Lady-Captain. 
 
 Let k vraku nebyl úplně bezproblémový, senzory lodi byly rušeny. Mortis se je pokusil opravit, ale Bůh-Stroj mu nebyl nakloněn. I přes počáteční obtíže se nakonec bezpečně dostal se svým týmem k vraku nákladní lodi.
@@ -46,6 +47,7 @@ Na můstek poté přišel kontrolor [[Lop Kerys]] se čtyřmi týmy pátračů, 
 Mortis je nadále rozhodnut věrně sloužit [[Lady-Captain Lyra Vhast|Lady-Captain Lyře]], protože jen díky jejím zdrojům může najít svoji sestru [[Zariel]].
 
 **Mise:** **Vzpoura v podpalubí**
+
 Po výstupu z voidu si [[Lady-Captain Lyra Vhast|Lady-Captain Lyra]] povolala Mortise a jeho tým, aby jim svěřila tajnou misi – ukončit vzpouru na spodních palubách. Nepokoje vypukly kvůli brutálnímu zacházení ze strany bezpečnostních složek. [[Caradoc Valen|Caradoc]] se pustil do jednání s vůdci tří místních klanů a postupně si získával jejich důvěru. Nadějný průběh však narušil náhlý vpád enforcerů, jejichž velitel se rozhodl řešit situaci silou, údajně na rozkaz Lady Lyry. Mortisovi se to nezdálo, nevěděl, zda šlo o nešťastnou shodu okolností, nebo o projev nekompetentnosti. Díky Caradocově pohotovosti se však podařilo situaci uklidnit a odvrátit krveprolití, ale vyšlo najevo, že se mezi vzbouřenci skrývají heretici, kteří ukradli bednu s xeno-artefakty. Jejich získání zpět se stalo novou prioritou. Mortis by na rozdíl od Caradoc pro vzbouřence co ukrývají heretiky tolik pochopení neměl. ([[Session 2025-08-12|session]])
 
 ---
