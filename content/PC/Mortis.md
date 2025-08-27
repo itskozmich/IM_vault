@@ -54,6 +54,9 @@ První artefakt se podařilo najít rychle, díky Mortisově pokročilým techni
 
 Uvědomil si také, že pokud má přežít další boj zblízka, musí své tělo vylepšit, jak káže Bůh-Stroj, zvlášť když má po boku nespolehlivého Echa.
 
+Poté co byla opět uvedena *[[The Vigilant Seeker]]* do pohybu zamířila k planetě [[Lastrati]]. Zde mělo dojít k obchodu mezi [[Lady-Captain Lyra Vhast|Lady-Captain Lyrů]], kterou zastupoval Mortis se svým týmem, a místním překupníkem se zbraněmi [[Merki|Merkim]]. Bohužel tým do překupníkova krámku přišel pozdě. Merki byl mrtev a v krámku probíhal boj mezi členy gangu a [[Battle Sister Mary]]. Ta je nemilosrdně pobila.
+
+Tým se opět dostal do nezáviděníhodné situace. Od Battle Sister Marry dostali nabídku odměny za hlavu psykera místo původního obchodu. Z jejího výrazu bylo jasné, že odmítnutí nabídky není možností. Zběhlý psyker se skrýval v opuštěném skladišti. Ukázalo se, že psyker zahnaný do kouta je extrémně nebezpečný. Jediným kouzlem zahubil téměř všechny ve skladišti bez ohledu na to zda se jedná o spojence nebo nepřátele. Nejhůře to odskákal [[Echo]], který přežil jen díky včasné Mortisově pomoci. Po boji Mary vyplatila slíbenou odměnu a tým se mohl konečně vrátil zpět na voidship. ([[Session 2025-08-26|session]])
 
 ---
 ## Historie
