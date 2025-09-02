@@ -14,7 +14,7 @@ title: Vault kampaně v Imperium Maledictum
 <!--LATEST-->
 ## 🧭 Poslední stopy ve vaultu
 
-- [[Sessions/Session 2025-08-12]] – `2025-08-14`
+- [[Session 2025-08-12]] – `2025-08-14`
 - [[NPC/Merki]] – `2025-08-14`
 - [[Locations/Lastrati]] – `2025-08-14`
 - [[PC/Mortis]] – `2025-08-14`

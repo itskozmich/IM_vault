@@ -1,12 +1,11 @@
-
 ## Imperiální databáze
 **Type**: NPC
 
-**Role:** Smuggler
+**Role:** Battle Sister
 
-**Faction**: 
+**Faction**: [[Adeptus Ministorum]]
 
-**Status:** Dead ([[Session 2025-08-26|session]])
+**Status:** Alive
 
 **First occurence:** [[Session 2025-08-26]]
 
@@ -27,4 +26,4 @@
 
 ---
 ## Tagy 
-#npc
+#npc #adeptus_ministorum 
