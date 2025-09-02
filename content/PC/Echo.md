@@ -53,7 +53,7 @@ I když slouží [[Lady-Captain Lyra Vhast|Lady Vhast]], věrnost Calligosovi a 
 
 ## Sessions
 
-[[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]] [[Session 2025-08-19]]
+[[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]] [[Session 2025-08-19]] [[Session 2025-08-26]]
 
 ---
 
