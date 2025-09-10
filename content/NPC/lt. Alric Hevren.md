@@ -5,14 +5,14 @@
 
 **Role:** Imperial Navy Officer
 
-**Faction:** [[The Imperial Navy]]
+**Faction:** [[Navis Imperialis]]
 
 **Status:** Alive
 
 --- 
 ## Vztahy 
-- [[Caradoc Valen]] - bývalý společník v [[The Imperial Navy]]
+- [[Caradoc Valen]] - bývalý společník v [[Navis Imperialis]]
 
 ---
 ## Tagy
-#npc #imperial_navy
+#npc #navis_imperialis

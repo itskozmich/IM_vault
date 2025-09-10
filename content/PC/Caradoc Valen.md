@@ -7,7 +7,7 @@
 
 **Origin**: Feudal World ([[Tyras Hegemon]])
 
-**Faction**: [[The Imperial Navy]] 
+**Faction**: [[Navis Imperialis]] 
 
 **Status**: Alive
 
@@ -16,7 +16,7 @@
 - [[Lady-Captain Lyra Vhast]] – patron
 - [[Mortis]] - člen týmu
 - [[Echo]] - člen týmu
-- [[lt. Alric Hevren]] - kontakt v [[The Imperial Navy]]
+- [[lt. Alric Hevren]] - kontakt v [[Navis Imperialis]]
 - [[NPC/Tyras Hegemon/Leman Valen|Leman Valen]] - otec
 - [[NPC/Tyras Hegemon/Pollyn Valen|Pollyn Valen]] - matka
 - [[NPC/Tyras Hegemon/Daren Valen|Daren Valen]] - bratr
@@ -40,7 +40,7 @@ Zariel své schopnosti plně neovládala. Došlo k nehodě a celá mise se nezda
 
 První mise s novým týmem. Specialistu na infiltraci [[Echo|Echa]] doplnil již zachráněný techpriest Mortis jako nejnovější člen. Úkol byl jasný – vniknout na ztroskotanou loď *Lucky Star* a získat odtud smlouvy důležité pro [[Rod Vhast]] a náklad s významem pro kapitánku.
 
-Při průletu pásem asteroidů Caradoc zužitkoval své zkušenosti z [[The Imperial Navy|Imperial Navy]] a spolu s Mortisem, který se staral o senzoriku, se jim podařilo přistát poblíž vraku.
+Při průletu pásem asteroidů Caradoc zužitkoval své zkušenosti z [[Navis Imperialis|Imperial Navy]] a spolu s Mortisem, který se staral o senzoriku, se jim podařilo přistát poblíž vraku.
 
 Samotná infiltrace na loď proběhla bez větších problémů. Během průzkumu tým zneškodnil skupinu scavengerů a úspěšně nalezl požadované smlouvy. ([[Session 2025-07-01|session]])
 
@@ -65,7 +65,7 @@ Caradoc je druhý syn šlechtického rodu Valen z feudálního světa [[Tyras He
 
 Na Tyrasu se pořád ještě věří v boj zblízka. Meč, štít, čest. Palné zbraně? Věc žoldáků a sedláků. Caradoc se naučil šermovat, vést gardu, mluvit před lidmi. Lasgun držel poprvé až ve flotile.
 
-Kromě bratra měl ještě dvě mladší sestry – [[NPC/Tyras Hegemon/Tessa Valen|Tessu]] a [[NPC/Tyras Hegemon/Vera Valen|Vere]]. Měl je rád. Poslední zprávy o rodině měl, když nastupoval službu u [[The Imperial Navy|Imperial Navy]]. Byla to dohoda – rod Valen poslal syna do služby výměnou za starý dluh planetárního guvernéra.
+Kromě bratra měl ještě dvě mladší sestry – [[NPC/Tyras Hegemon/Tessa Valen|Tessu]] a [[NPC/Tyras Hegemon/Vera Valen|Vere]]. Měl je rád. Poslední zprávy o rodině měl, když nastupoval službu u [[Navis Imperialis|Imperial Navy]]. Byla to dohoda – rod Valen poslal syna do služby výměnou za starý dluh planetárního guvernéra.
 
 Ve flotile to šlo rychle. Caradoc mluvil líp než většina důstojníků. Věděl, kdy držet hubu, kdy zatlačit, a hlavně jak se vyhnout střetu, když nebyl potřeba. Postupoval, získával hodnosti, vliv – a s tím i víc papírování, víc schvalování, víc sraček.
 
@@ -77,8 +77,8 @@ Pak přišla [[Lady-Captain Lyra Vhast]]. Neptala se na jeho minulost. Řekla mu
 
 ---
 ## Sessions
- [[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]] [[Session 2025-08-19]] [[Session 2025-08-26]]
+ [[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]] [[Session 2025-08-19]] [[Session 2025-08-26]] [[Session 2025-09-02]] [[Session 2025-09-09]]
 
 ---
 ## Tagy
-#pc #valen_dynasty #imperial_navy #crew
+#pc #valen_dynasty #navis_imperialis  #crew
