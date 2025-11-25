@@ -14,14 +14,14 @@ title: Vault kampaně v Imperium Maledictum
 <!--LATEST-->
 ## 🧭 Poslední stopy ve vaultu
 
-- [[Sessions/03 - Volkov Extraction story arc/Session 2025-09-09]] – `2025-09-10`
+- [[Sessions/04 - Echo's Departure/Session 2025-10-23]] – `2025-11-25`
+- [[PC/Mortis]] – `2025-11-25`
+- [[PC/Caradoc Valen]] – `2025-11-25`
+- [[PC/Echo]] – `2025-11-25`
+- [[Sessions/03 - Volkov Extraction/Session 2025-09-16 & 2025-10-07]] – `2025-11-18`
+- [[NPC/Volkov]] – `2025-11-18`
+- [[Sessions/03 - Volkov Extraction/Session 2025-09-09]] – `2025-09-10`
 - [[Locations/Macharia]] – `2025-09-10`
-- [[PC/Caradoc Valen]] – `2025-09-10`
 - [[Factions/Navis Imperialis]] – `2025-09-10`
 - [[NPC/lt. Alric Hevren]] – `2025-09-10`
-- [[Sessions/02 - Lastrati story arc/Session 2025-08-12]] – `2025-09-10`
-- [[Sessions/01 - Lucky Star story arc/Session 2025-08-05]] – `2025-09-10`
-- [[Sessions/03 - Volkov Extraction story arc/Session 2025-09-02]] – `2025-09-10`
-- [[PC/Mortis]] – `2025-09-10`
-- [[PC/Echo]] – `2025-09-10`
 <!--ENDLATEST-->
