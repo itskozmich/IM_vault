@@ -58,6 +58,48 @@ Poté co byla opět uvedena *[[The Vigilant Seeker]]* do pohybu zamířila k pla
 
 Tým se opět dostal do nezáviděníhodné situace. Od Battle Sister Marry dostali nabídku odměny za hlavu psykera místo původního obchodu. Z jejího výrazu bylo jasné, že odmítnutí nabídky není možností. Zběhlý psyker se skrýval v opuštěném skladišti. Ukázalo se, že psyker zahnaný do kouta je extrémně nebezpečný. Jediným kouzlem zahubil téměř všechny ve skladišti bez ohledu na to zda se jedná o spojence nebo nepřátele. Nejhůře to odskákal [[Echo]], který přežil jen díky včasné Mortisově pomoci. Po boji Mary vyplatila slíbenou odměnu a tým se mohl konečně vrátil zpět na voidship. ([[Session 2025-08-26|session]])
 
+**Mise:** **Macharia**
+
+Po předešlých událostech nám [[Lady-Captain Lyra Vhast|Lady-Captain Lyra]] zadala novou misi: Zajistit spolupráci psykera  [[Volkov|Volkova]]. Volkovova schopnost okamžitě poznat lež z něj dělá nebezpečně cenný asset. V týmu vznikla debata, zda jej přesvědčit, vydírat, nebo rovnou unést.  Nakonec jsme se domluvili, že nejprve bude vhodné o něm získat více informací a odhalit jeho slabiny, které by se na něj dali použít jako vhodná páka.
+Na planetu [[Macharia]] jsme se vydali v přestrojení za náboženskou delegaci. [[Caradok]] se chopil role mluvčího, jelikož se dříve v této roli osvědčil, a [[Mortis]] s [[Echo|Echem]] sehráli roli jeho ochranky.
+
+Po přistání na Macharii Mortise okamžitě zarazily nekonečné davy lidí. Od vesmírných doků se táhlo procesí poutníků tak dlouhé, že mizelo na horizontu. Prodrat se skrze něj bylo téměř nemožné — ulice blokovaly improvizované stánky s jídlem, hadry i očividně falešnými artefakty. Tým zamířil přímo do archivu, kde měli získat první střípky informací o Volkovovi. Stráže u vstupu je bez váhání pustily dál díky připraveným falešným dokumentům, které stačily k tomu, aby je považovaly za oficiální delegaci.
+
+Archiv byl velmi obsáhlí, zeptat se některého z archivářů na Volkova nepřipadalo v úvahu a prohledávat ho ručně by trvalo věčnost. Mortise napadlo využít databázový servo-skull L1B0R k nalezení Volkovova svazku. Bohužel po prvním pokusu se ukázalo, že L1B0R naprosto vadný. Vzhledem s urgentní situaci se Mortis rozhodnul, že nejrychlejší cestou k dokumentům bude vadný servo-skull spravit. Cítil, že je mu Omnissiah nakloněn, tak se pustil do oprav. Jelikož hrabání se v cizím servo-skullu by mohlo přitáhnout nevítanou pozornost, tak se Echo zhostil úkolu odvést pozornost enforcerů. V čemž bohužel selhal. Situaci zachránil Caradoc, který všetečného enforcera odvedl pryč. Mortisovi se oprava se podařila perfektně, L1B0R je jako nový a bude moct sloužit řadu dalších let.
+
+Z archivních záznamů vyplynulo, že Volkov je na Macharii uctíván jako žijící svatý a žije v místním klášteře. Ještě podstatnější však bylo zjištění, že někdo nebezpečný z jeho minulosti po něm pátrá. Tým se proto shodl na využití této skutečnosti jako páky a přesvědčit Volkova, že Lyra mu může zajistit potřebnou ochranu.
+
+Další neznámou bylo, jak se infiltrovat do kláštera a nepozorovaně dostat Volkova ven. Mortis navrhl, že by jejich delegace mohla působit důvěryhodněji, pokud přinese dar do klášterního relikviáře. Tým se proto vydal na místní černý trh s falešnými relikviemi, aby něco vhodného našli. K Mortisovu úžasu se mezi bezcennými padělky skutečně ukrývala pravá relikvie, zub samotného Sanguinia. Mortis po ní okamžitě zatoužil a podařilo se mu ji získat za překvapivě rozumnou cenu. S ceněnou relikvií v kapse tým najal létající rikšu a vyrazil směrem ke klášteru.
+
+Před klášterem se tým rozdělil. Echo se rozhodl, že bude nejvhodnější, když bude hlídat rikšu a následně Mortise, Caradoka a Volkova vyzvedne při útěku z kláštera. Mortisovi se nepozdávalo, že Echo zase trhá tým, v minulosti to většinou vedlo k problémům. 
+
+Caradoc se Morsisem bez problémů infiltroval do klášteru i díky opatřené relikvii. Cesta k ubikacím Volkova byla překvapivě bez problémů stačilo se v klášteře zeptat. Cesta ven bude určitě složitější.
+
+Caradoca i Mortise překvapilo, když jim Volkov bez okolků přiznal, že v klášteře být nechce a navíc se boj í o vlastní život. Nabídku ochrany od Lady Lyry přijal okamžitě. Jenže jako uctívaný světec nemůže klášter opustit jen tak, aniž by způsobil rozruch. Nakonec přišli s jednoduchým plánem, ukryt se v relikviáři a počkat, až do služby nastoupí enforceři, kteří jsou Volkovovi nakloněni a slíbili mu pomoc s útěkem.
+
+Situace se rychle zvrtla, při prohlídce relikviáře se všechno totálně podělalo. V relikviáři na ně byla přichystaná léčka. Mortis s Caradocem se ocitli obklopeni oddílem Winterscaleových ozbrojenců, kteří přišli Volkova zajmout. Echo samozřejmě nikde. Přes nevýhodu a přesilu se Caradocovi a Mortisovi podařilo dva útočníky zlikvidovat a na chvíli získat iniciativu. Do zad jim však vpadli enforceři, které přilákal hluk boje. Velitel Winterscaleových mužů mezitím utekl s omráčeným Volkovem.
+
+Mortis s Caradocem byli nuceni ustoupit a zároveň se pokusit únosce pronásledovat. Po krátké době se dvojice enforcerům ztratila. Veliteli únoscům už nestačili, ale za dalším rohem našli Volkova – zraněného, rozpáraného a na pokraji smrti. Mortis se pustil do improvizované, riskantní operace, která hraničila s nemožným. Pod tlakem a ve spěchu však udělal chybu a Volkovovi spíše přitížil. Psyker zemřel Mortisovi přímo pod rukama.
+
+Echo se konečně ozval až ve chvíli, kdy bylo po boji. Kontaktoval Mortise a Caradoca a navedl je k nejbližšímu východu z kláštera. Společně se pak stáhli zpět na loď, aby Lady Lyře podali zprávu o Volkově smrti i o přítomnosti Winterscaleových ozbrojenců. Překvapivě se zdálo, že Lyra je s výsledkem mise spokojená. Alespoň s tím, že Volkov neskončil v rukou Winterscalea.
+
+**Mise:** **Spymaster**
+Po událostech z předešlé mise se Lyra rozhodla, že je nutné proti Winterscaleovi zakročit a oplatit mu zmaření naverbování Volkova. Proběhla diskuse o výběru vhodného cíle, na který by se měl náš tým prioritně zaměřit. Výběr byl ze tří dostupných možností, jak se dostat Winterscaleovi pod kůži. Nakonec byla vybrána nejriskantnější mise, která slibovala největší odměnu.
+
+Winterscaleův spymaster se ho dle Lyřiných zdrojů chystal zradit a utéct. Nabídl Lyře kompromitující dokumenty výměnou za pomoc při útěku od Winterscalea. Mortisovi se tato mise nepozdávala, dle jeho mínění nebyla zrada spymastera moc pravděpodobná. Vše bylo až příliš příhodné, zavánělo to pastí, ale nakonec se nechal svým týmem přesvědčit, že případný zisk stojí za riziko. 
+
+Setkání proběhlo na opuštěném pohřebním měsíci kde byl jen polorozbořený kostek a spousta hrobů. Spymaster se svým doprovodem už čekali v kostele. Echo se nabídl, že bude Mortise a Caradoka krýt. Pro svou pozici si vybral věž kostela, která je jevila jako ideální místo pro ostřelovače. Až do posud šlo vše až příliš dobře, přesně podle plánu.
+
+Jak se následně ukázalo nebylo to podle našeho plánu. Winterscaleovi lidí na nás hned, jak jsme se k nim přiblížili spustili palbu. Na to jsme byli připraveni s Echovou pomocí bychom je zvládli bez problémů přemoci. O to větší šok jsme utrpěli, když nám někdo začal střílet z věže kostela do zad. Echo nás zradil. Přidal se na stranu svého bývalého pána Winterscalea. 
+
+Na přemýšlení nebyl čas. Teď šlo Motrtisovi o holí život. Jedinou možností záchrany bylo rychle se dostat do výsadkové lodi, ke které vedla dlouhá cesta otevřeným terénem. Na kterou měl zrádce Echo perfektní výhled. Mortis se rozhodl, že pokoušet se schovávat nemá cenu a nejlepší strategií bude běžet přímo a rychle a modlit se v Omnissiah. Tato strategie Mortisovi zachránila život, polomrtví a s vypětím všech sil doběhl do transportéru. Ještě jedna rána od útočníků a byl by po smrti. Caradoc zvolil odlišnou strategii, při útěku se kryl za náhrobky. I jemu se nakonec podařilo jen o vlásek uniknout.
+
+Mortise zrada člena týmu ho zasáhla. Vyčítal si, že nevěnoval Echovu chování více pozornosti. Měl o jeho podezřelém rozhovoru s Winterscalem říct Caradokovi a Lyře hned. Slíbil si, že pokud se mu zrádce Echo dostane někdy do rukou udělá z něj cvičného servitora, na kterém si budou rekruti trénovat bodání do ledvin.  
+
+Lady Lyra byla po incidentu rozzuřená a přísahala, že se Winterscaleovi šeredně pomstí.  
+
+
+
 ---
 ## Historie
 
