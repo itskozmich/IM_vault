@@ -61,7 +61,7 @@ Tým se opět dostal do nezáviděníhodné situace. Od Battle Sister Marry dost
 **Mise:** **Macharia**
 
 Po předešlých událostech nám [[Lady-Captain Lyra Vhast|Lady-Captain Lyra]] zadala novou misi: Zajistit spolupráci psykera  [[Volkov|Volkova]]. Volkovova schopnost okamžitě poznat lež z něj dělá nebezpečně cenný asset. V týmu vznikla debata, zda jej přesvědčit, vydírat, nebo rovnou unést.  Nakonec jsme se domluvili, že nejprve bude vhodné o něm získat více informací a odhalit jeho slabiny, které by se na něj dali použít jako vhodná páka.
-Na planetu [[Macharia]] jsme se vydali v přestrojení za náboženskou delegaci. [[Caradok]] se chopil role mluvčího, jelikož se dříve v této roli osvědčil, a [[Mortis]] s [[Echo|Echem]] sehráli roli jeho ochranky.
+Na planetu [[Macharia]] jsme se vydali v přestrojení za náboženskou delegaci. [[Caradoc Valen|Caradoc]] se chopil role mluvčího, jelikož se dříve v této roli osvědčil, a [[Mortis]] s [[Echo|Echem]] sehráli roli jeho ochranky.
 
 Po přistání na Macharii Mortise okamžitě zarazily nekonečné davy lidí. Od vesmírných doků se táhlo procesí poutníků tak dlouhé, že mizelo na horizontu. Prodrat se skrze něj bylo téměř nemožné — ulice blokovaly improvizované stánky s jídlem, hadry i očividně falešnými artefakty. Tým zamířil přímo do archivu, kde měli získat první střípky informací o Volkovovi. Stráže u vstupu je bez váhání pustily dál díky připraveným falešným dokumentům, které stačily k tomu, aby je považovaly za oficiální delegaci.
 
@@ -71,7 +71,7 @@ Z archivních záznamů vyplynulo, že Volkov je na Macharii uctíván jako žij
 
 Další neznámou bylo, jak se infiltrovat do kláštera a nepozorovaně dostat Volkova ven. Mortis navrhl, že by jejich delegace mohla působit důvěryhodněji, pokud přinese dar do klášterního relikviáře. Tým se proto vydal na místní černý trh s falešnými relikviemi, aby něco vhodného našli. K Mortisovu úžasu se mezi bezcennými padělky skutečně ukrývala pravá relikvie, zub samotného Sanguinia. Mortis po ní okamžitě zatoužil a podařilo se mu ji získat za překvapivě rozumnou cenu. S ceněnou relikvií v kapse tým najal létající rikšu a vyrazil směrem ke klášteru.
 
-Před klášterem se tým rozdělil. Echo se rozhodl, že bude nejvhodnější, když bude hlídat rikšu a následně Mortise, Caradoka a Volkova vyzvedne při útěku z kláštera. Mortisovi se nepozdávalo, že Echo zase trhá tým, v minulosti to většinou vedlo k problémům. 
+Před klášterem se tým rozdělil. Echo se rozhodl, že bude nejvhodnější, když bude hlídat rikšu a následně Mortise, Caradoca a Volkova vyzvedne při útěku z kláštera. Mortisovi se nepozdávalo, že Echo zase trhá tým, v minulosti to většinou vedlo k problémům. 
 
 Caradoc se Morsisem bez problémů infiltroval do klášteru i díky opatřené relikvii. Cesta k ubikacím Volkova byla překvapivě bez problémů stačilo se v klášteře zeptat. Cesta ven bude určitě složitější.
 
@@ -88,13 +88,13 @@ Po událostech z předešlé mise se Lyra rozhodla, že je nutné proti Wintersc
 
 Winterscaleův spymaster se ho dle Lyřiných zdrojů chystal zradit a utéct. Nabídl Lyře kompromitující dokumenty výměnou za pomoc při útěku od Winterscalea. Mortisovi se tato mise nepozdávala, dle jeho mínění nebyla zrada spymastera moc pravděpodobná. Vše bylo až příliš příhodné, zavánělo to pastí, ale nakonec se nechal svým týmem přesvědčit, že případný zisk stojí za riziko. 
 
-Setkání proběhlo na opuštěném pohřebním měsíci kde byl jen polorozbořený kostek a spousta hrobů. Spymaster se svým doprovodem už čekali v kostele. Echo se nabídl, že bude Mortise a Caradoka krýt. Pro svou pozici si vybral věž kostela, která je jevila jako ideální místo pro ostřelovače. Až do posud šlo vše až příliš dobře, přesně podle plánu.
+Setkání proběhlo na opuštěném pohřebním měsíci kde byl jen polorozbořený kostek a spousta hrobů. Spymaster se svým doprovodem už čekali v kostele. Echo se nabídl, že bude Mortise a Caradoca krýt. Pro svou pozici si vybral věž kostela, která je jevila jako ideální místo pro ostřelovače. Až do posud šlo vše až příliš dobře, přesně podle plánu.
 
 Jak se následně ukázalo nebylo to podle našeho plánu. Winterscaleovi lidí na nás hned, jak jsme se k nim přiblížili spustili palbu. Na to jsme byli připraveni s Echovou pomocí bychom je zvládli bez problémů přemoci. O to větší šok jsme utrpěli, když nám někdo začal střílet z věže kostela do zad. Echo nás zradil. Přidal se na stranu svého bývalého pána Winterscalea. 
 
 Na přemýšlení nebyl čas. Teď šlo Motrtisovi o holí život. Jedinou možností záchrany bylo rychle se dostat do výsadkové lodi, ke které vedla dlouhá cesta otevřeným terénem. Na kterou měl zrádce Echo perfektní výhled. Mortis se rozhodl, že pokoušet se schovávat nemá cenu a nejlepší strategií bude běžet přímo a rychle a modlit se v Omnissiah. Tato strategie Mortisovi zachránila život, polomrtví a s vypětím všech sil doběhl do transportéru. Ještě jedna rána od útočníků a byl by po smrti. Caradoc zvolil odlišnou strategii, při útěku se kryl za náhrobky. I jemu se nakonec podařilo jen o vlásek uniknout.
 
-Mortise zrada člena týmu ho zasáhla. Vyčítal si, že nevěnoval Echovu chování více pozornosti. Měl o jeho podezřelém rozhovoru s Winterscalem říct Caradokovi a Lyře hned. Slíbil si, že pokud se mu zrádce Echo dostane někdy do rukou udělá z něj cvičného servitora, na kterém si budou rekruti trénovat bodání do ledvin.  
+Mortise zrada člena týmu ho zasáhla. Vyčítal si, že nevěnoval Echovu chování více pozornosti. Měl o jeho podezřelém rozhovoru s Winterscalem říct Caradocovi a Lyře hned. Slíbil si, že pokud se mu zrádce Echo dostane někdy do rukou udělá z něj cvičného servitora, na kterém si budou rekruti trénovat bodání do ledvin.  
 
 Lady Lyra byla po incidentu rozzuřená a přísahala, že se Winterscaleovi šeredně pomstí.  
 
@@ -115,7 +115,7 @@ Mortis byl při útěku dopaden a uvězněn. Několik týdnů čekal na výslech
 
 ---
 ## Sessions
-[[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]] [[Session 2025-08-19]] [[Session 2025-08-26]] [[Session 2025-09-02]] [[Session 2025-09-09]]
+[[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]] [[Session 2025-08-19]] [[Session 2025-08-26]] [[Session 2025-09-02]] [[Session 2025-09-09]] [[Session 2025-09-16 & 2025-10-07]] [[Session 2025-10-23]]
 
 ---
 ---
