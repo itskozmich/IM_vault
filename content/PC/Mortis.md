@@ -22,7 +22,7 @@
 ---
 ## Vývoj
 
-Morsis se přidal do nového týmu ve službách [[Lady-Captain Lyra Vhast|Lady-Captain Lyry]]. Je odhodlán složit loajálně a zhostit se svých povinností. Jelikož je Lady Lyře vděčný za záchranu života, a navíc její zdroje jsou jedinou možností, jak pokračovat v hledání [[Zariel]].
+Mortis se přidal do nového týmu ve službách [[Lady-Captain Lyra Vhast|Lady-Captain Lyry]]. Je odhodlán složit loajálně a zhostit se svých povinností. Jelikož je Lady Lyře vděčný za záchranu života, a navíc její zdroje jsou jedinou možností, jak pokračovat v hledání [[Zariel]].
 
 Před první misí přistihl [[Caradoc Valen|Caradoc]] Mortise v choulostivé situaci. Caradoc nechtěl šmírovat, jen šel zkontrolovat stav palubních kontrolek. Místo toho zahlédl Mortise, jak propojený svým datakonektorem do terminálu lodi [[The Vigilant Seeker]] polohlasně odříkává modlitbu... která zněla až příliš vzrušeně. Zalitý olejem, chvějící se, očividně zažívající “technognostickou extázi” z přenosu dat, Mortis při tom vydával znepokojivé zvuky. Caradoc se stáhl bez jediného slova – ale výraz v jeho tváři říkal vše.
 

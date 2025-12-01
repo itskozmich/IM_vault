@@ -24,6 +24,8 @@
 
 ---
 ## Sessions
+[[Session 2025-08-12]]
 
 ---
 ## Tagy 
+#npc 
