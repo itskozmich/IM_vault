@@ -14,14 +14,14 @@ title: Vault kampaně v Imperium Maledictum
 <!--LATEST-->
 ## 🧭 Poslední stopy ve vaultu
 
-- [[PC/Caradoc Valen]] – `2025-12-01`
-- [[Sessions/04 - Echo's Departure/Session 2025-10-23]] – `2025-12-01`
-- [[NPC/The Vigilant Seeker/Godfrey]] – `2025-12-01`
-- [[NPC/The Vigilant Seeker/Anna]] – `2025-12-01`
-- [[NPC/The Vigilant Seeker/Lisa]] – `2025-12-01`
-- [[PC/Sylas]] – `2025-12-01`
-- [[PC/Mortis]] – `2025-12-01`
-- [[PC/Echo]] – `2025-11-25`
-- [[Sessions/03 - Volkov Extraction/Session 2025-09-16 & 2025-10-07]] – `2025-11-18`
-- [[NPC/Volkov]] – `2025-11-18`
+- [[Sessions/05 - Vault 47-Beta/Session 2025-11-25]] – `2025-12-02`
+- [[Locations/Avernia Secundus]] – `2025-12-02`
+- [[PC/Caradoc Valen]] – `2025-12-02`
+- [[Locations/Moon of Saint Sulpice]] – `2025-12-02`
+- [[Sessions/04 - Echo's Departure/Session 2025-10-23]] – `2025-12-02`
+- [[PC/Sylas]] – `2025-12-02`
+- [[PC/Mortis]] – `2025-12-02`
+- [[Sessions/01 - Lucky Star/Session 2025-08-05]] – `2025-12-02`
+- [[NPC/The Vigilant Seeker/Magos]] – `2025-12-02`
+- [[NPC/The Vigilant Seeker/Zarrek]] – `2025-12-02`
 <!--ENDLATEST-->

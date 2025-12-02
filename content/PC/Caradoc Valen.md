@@ -115,7 +115,7 @@ Pak se vrátili k Lady Lyře s negativním výsledkem mise. ([[Session 2025-09-1
 
 **Echova zrada**
 
-To, že nezískali [[Volkov|Volkova]], Lady Vhast naštvalo. Jediným uklidněním bylo to, že je mrtev a neslouží tak ve Winterscaleových řadách. Potřebovala zasadit svému oponentovi nějaký úder. A jeden takový se nabízel – na měsíci *Moon of Saint Sulpice* se měli potkat s Winterscaleovým špehem a přivézt jej společně s daty, která zcizil, na *[[The Vigilant Seeker]]*.
+To, že nezískali [[Volkov|Volkova]], Lady Vhast naštvalo. Jediným uklidněním bylo to, že je mrtev a neslouží tak ve Winterscaleových řadách. Potřebovala zasadit svému oponentovi nějaký úder. A jeden takový se nabízel – na měsíci [[Moon of Saint Sulpice]] se měli potkat s Winterscaleovým špehem a přivézt jej společně s daty, která zcizil, na *[[The Vigilant Seeker]]*.
 
 Po přistání se tým shodnul na tom, že [[Echo]] vyrazí napřed a bude monitorovat situaci ze zvonice pobořeného kostela, ve kterém mělo k setkání dojít.
 
@@ -137,7 +137,7 @@ To Caradoca zasáhlo. Byl tak slepý? Jak to, že si toho nikdy nevšiml? Opravd
 
 A jak to, že si toho nevšimla Kapitánka?
 
-Další rána do už tak pošramoceného obrazu vedení. Caradoc si uvědomil, že pokud chce loď přežít, musí udělat to, co je třeba.
+Další rána do už tak pošramoceného obrazu vedení. Caradoc si uvědomil, že pokud chce loď přežít, musí udělat to, co je třeba. ([[Session 2025-11-25|session]])
 
 
 
@@ -160,7 +160,7 @@ Pak přišla [[Lady-Captain Lyra Vhast]]. Neptala se na jeho minulost. Řekla mu
 
 ---
 ## Sessions
- [[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]] [[Session 2025-08-19]] [[Session 2025-08-26]] [[Session 2025-09-02]] [[Session 2025-09-09]] [[Session 2025-09-16 & 2025-10-07]] [[Session 2025-10-23]]
+ [[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]] [[Session 2025-08-19]] [[Session 2025-08-26]] [[Session 2025-09-02]] [[Session 2025-09-09]] [[Session 2025-09-16 & 2025-10-07]] [[Session 2025-10-23]] [[Session 2025-11-25]]
 
 ---
 ## Tagy

@@ -120,7 +120,7 @@ Mortis byl při útěku dopaden a uvězněn. Několik týdnů čekal na výslech
 
 ---
 ## Sessions
-[[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]] [[Session 2025-08-19]] [[Session 2025-08-26]] [[Session 2025-09-02]] [[Session 2025-09-09]] [[Session 2025-09-16 & 2025-10-07]] [[Session 2025-10-23]]
+[[Session 2025-07-01]] [[Session 2025-07-29]] [[Session 2025-08-05]] [[Session 2025-08-12]] [[Session 2025-08-19]] [[Session 2025-08-26]] [[Session 2025-09-02]] [[Session 2025-09-09]] [[Session 2025-09-16 & 2025-10-07]] [[Session 2025-10-23]] [[Session 2025-11-25]]
 
 ---
 ---
