@@ -96,13 +96,26 @@ Na přemýšlení nebyl čas. Teď šlo Motrtisovi o holí život. Jedinou možn
 
 Mortise zrada člena týmu ho zasáhla. Vyčítal si, že nevěnoval Echovu chování více pozornosti. Měl o jeho podezřelém rozhovoru s Winterscalem říct Caradocovi a Lyře hned. Slíbil si, že pokud se mu zrádce Echo dostane někdy do rukou udělá z něj cvičného servitora, na kterém si budou rekruti trénovat bodání do ledvin. ([[Session 2025-10-23|session]])
 
-**Mise:** **Safe house**
+**Mise:** **Vault 47-Beta**
 
 Po posledním incidentu, kdy jsme padli do léčky a [[Echo]] odhalil svou zradu, bylo [[Mortis|Mortisovi]] jasné, že [[Calligos Winterscale|Winterscale]] už neusiluje jen o oslabení [[Lady-Captain Lyra Vhast|Lady Lyry]], ale jde mu o její úplné zničení. Tohle není běžný spor dvou Rogue Traderů. Je to otevřená válka, ve které musíme nejprve zastavit jeho intriky a teprve potom zasadit protiúder.
 
 Před další misí bylo nutné doplnit tým o kompetentní náhradu za zrádce Echa. Volba padla na [[Sylas|Sylase]], příslušníka milice vzniklé z obyvatel podpalubí. Je to schopný střelec, rychle povýšil a působí dojmem muže, který je Lyře skutečně oddán. Zdá se, že do našeho týmu zapadne lépe než kdokoli jiný, kdo by se dal tak narychlo sehnat.
 
-Mortis si před odletem promluvil s hlavním inženýrem, Magosem XXX. Ten mu naznačil, že mu poskytne finanční podporu na budoucí získání implantátu, který by posílil jeho stále příliš křehké tělo z masa. Mortis vidí šanci odhodit další slabinu a přiblížit se o krok blíže k více Bohu stroji.
+Mortis si před odletem promluvil s hlavním inženýrem, Magosem XXX. Ten mu naznačil, že mu poskytne finanční podporu na budoucí získání implantátu, který by posílil jeho stále příliš křehké tělo z masa. Mortis vidí šanci odhodit další slabinu a přiblížit se o krok blíže k více Bohu stroji. ([[Session 2025-11-25|session]])
+
+[[Mortis]] před misí detailně probral plán na zničení nákladní voidship s hlavním inženýrem, Magosem XXX, který mu poskytl cenné rady ohledně běžných zabezpečovacích systémů transportních lodí. Následně se tým přesunul na planetu [[Avernia Secundus]], kde měl zajistit vault [[Lady-Captain Lyra Vhast|Lady Lyry]] a zároveň zlikvidovat nákladní voidship [[Calligos Winterscale|Calligose Winterscalea]]. Z Mortisova pohledu byl plán mimořádně riskantní, ale pokud by se podařilo splnit všechny cíle, výsledek by stál za to.
+
+Od začátku šlo vše podle plánu. Týmu se podařilo přistát blízko vaultu. Po poradě s [[Caradoc Valen|Caradocem]] a [[Sylas|Sylasem]] se rozhodli, že půjdou hlavní cestou. Nechtěli využít komplikovanější přístup pomocí tajného průchodu do vaultu a také se chtěli vyhnout stokám, které mohly být zamořeném různým svinstvem a mutanty. Tato volba se ukázala jako dobrá, Winterscalových mužů bylo minimum, na hlídání si najal místní ranaře z místních gengů a na práci místní nebožáky. 
+
+Caradocovi se podařilo Winterscalovi muže oklamat a přesvědčit je, že patříme k nim. Díky tomu nás bez problémů pustili do vaultu. Zde probíhaly nakládací práce, dělníci nakládali ukořistěné promethium a výrobníky paliva do transportní lodi. První várky byla připravená k odletu. Dostat se na loď bylo snadné, vydávali jsem se za inspekci. Teď to záleželo na Mortisovi, musel správně nastavit a šikovně ukrýt výbušninu pod jeden zásobník s palivem. Caradoc mu vytvořil příležitost, odvedl pozornost a zabavil na chvíli pilota. Mortisovi se podařilo nenápadně nálož ukrýt. Následně nechali transportní loď odletět zpět na nákladní voidship.
+
+Zbývalo už jen vyřešit Winterscaleovy muže a přitom napáchat co nejméně škod. Caradoc dokázal místní ranaře přesvědčit, aby se stáhli, a vzápětí zlikvidoval osamoceného strážce před vaultem. Výstřel však spustil poplach a zbývající stráže se pokusily uzavřít vstup. Tomu naštěstí zabránil Mortis, který včas prolomil zavírací mechanismus brány.
+
+Sylas s Caradocem využili pootevřeného vstupu, pronikli dovnitř a rychle vyřadili zbylé dva strážce. Dělníci se při prvních výstřelech rozprchli a zmizeli beze stopy. Caradoc byl při přestřelce zraněn, ale Mortis ho dokázal rychle ošetřit – práce se skalpelem pro něj už dávno není nic nového. Vault se podařilo zajistit bez dalších ztrát a žádní další Winterscaleovi muži se neobjevili.
+
+Mise tak skončila navzdory všem rizikům naprostým úspěchem. Po návratu na loď se tým dozvěděl, že nastražená nálož explodovala podle plánu a těžce poškodila Winterscaleovu nákladní voidship. ([[Session 2025-12-02|session]])
+
 
 
 ---
