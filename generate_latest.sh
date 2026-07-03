@@ -6,7 +6,7 @@ COUNT=10
 
 # Vytvoř blok s nadpisem a nejnovějšími poznámkami
 latest_content=$( \
-  echo "## 🧭 Poslední stopy ve vaultu" && echo "" && \
+  echo "## Poslední záznamy ve vaultu" && echo "" && \
   find "$CONTENT_DIR" -type f -name "*.md" \
     ! -name "index.md" \
     ! -name "latest.md" \

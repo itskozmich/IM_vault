@@ -17,11 +17,11 @@
 - [[Mortis]] - člen týmu
 - [[Echo]] - člen týmu
 - [[lt. Alric Hevren]] - kontakt v [[Navis Imperialis]]
-- [[NPC/Tyras Hegemon/Leman Valen|Leman Valen]] - otec
-- [[NPC/Tyras Hegemon/Pollyn Valen|Pollyn Valen]] - matka
-- [[NPC/Tyras Hegemon/Daren Valen|Daren Valen]] - bratr
-- [[NPC/Tyras Hegemon/Tessa Valen|Tessa Valen]] - sestra
-- [[NPC/Tyras Hegemon/Vera Valen|Vera Valen]] - sestra
+- [[Leman Valen|Leman Valen]] - otec
+- [[Pollyn Valen|Pollyn Valen]] - matka
+- [[Daren Valen|Daren Valen]] - bratr
+- [[Tessa Valen|Tessa Valen]] - sestra
+- [[Vera Valen|Vera Valen]] - sestra
 
 ---
 
@@ -144,11 +144,11 @@ Další rána do už tak pošramoceného obrazu vedení. Caradoc si uvědomil, �
 ---
 ## Historie
 
-Caradoc je druhý syn šlechtického rodu Valen z feudálního světa [[Tyras Hegemon]]. Od začátku bylo jasné, že panství jednou přejde na jeho staršího bratra [[NPC/Tyras Hegemon/Daren Valen|Darena]], a Caradoc bude ten druhý – záloha. Učil se vést, plánovat, rozhodovat, ale bez iluzí, že by někdy rozhodoval sám za sebe.
+Caradoc je druhý syn šlechtického rodu Valen z feudálního světa [[Tyras Hegemon]]. Od začátku bylo jasné, že panství jednou přejde na jeho staršího bratra [[Daren Valen|Darena]], a Caradoc bude ten druhý – záloha. Učil se vést, plánovat, rozhodovat, ale bez iluzí, že by někdy rozhodoval sám za sebe.
 
 Na Tyrasu se pořád ještě věří v boj zblízka. Meč, štít, čest. Palné zbraně? Věc žoldáků a sedláků. Caradoc se naučil šermovat, vést gardu, mluvit před lidmi. Lasgun držel poprvé až ve flotile.
 
-Kromě bratra měl ještě dvě mladší sestry – [[NPC/Tyras Hegemon/Tessa Valen|Tessu]] a [[NPC/Tyras Hegemon/Vera Valen|Vere]]. Měl je rád. Poslední zprávy o rodině měl, když nastupoval službu u [[Navis Imperialis|Imperial Navy]]. Byla to dohoda – rod Valen poslal syna do služby výměnou za starý dluh planetárního guvernéra.
+Kromě bratra měl ještě dvě mladší sestry – [[Tessa Valen|Tessu]] a [[Vera Valen|Vere]]. Měl je rád. Poslední zprávy o rodině měl, když nastupoval službu u [[Navis Imperialis|Imperial Navy]]. Byla to dohoda – rod Valen poslal syna do služby výměnou za starý dluh planetárního guvernéra.
 
 Ve flotile to šlo rychle. Caradoc mluvil líp než většina důstojníků. Věděl, kdy držet hubu, kdy zatlačit, a hlavně jak se vyhnout střetu, když nebyl potřeba. Postupoval, získával hodnosti, vliv – a s tím i víc papírování, víc schvalování, víc sraček.
 
