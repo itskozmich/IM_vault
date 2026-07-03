@@ -1,5 +1,4 @@
-
-
+![[zadora.png|360]]
 
 ## Imperiální databáze
 **Player**: Michal
@@ -12,7 +11,6 @@
 
 **Status**: Alive
 
-
 ---
 
 ## Vztahy
@@ -21,7 +19,6 @@
 - [[Tyruss]] – člen týmu
 - [[sister Theresia]] – pečovatelka, náhradní matka
 - [[Helena]] – spolunovicka, "sestra"
-
 
 ---
 
@@ -42,4 +39,4 @@
 ---
 
 ## Tagy
-#pc #adeptus_astra_telepathica #crew
+#pc #adeptus_astra_telepathica #adeptus_ministorum #inquisition  #crew
